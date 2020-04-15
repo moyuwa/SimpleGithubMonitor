@@ -1,0 +1,2 @@
+# SimpleGithubMonitor
+简单的Github监控程序，部分扩展未实现，使用pyinstaller打包，双击run.bat直接运行exe，win10可免python环境，其他系统需要安装python以及依赖库
