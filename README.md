@@ -1,8 +1,9 @@
 # SimpleGithubMonitor
-简单的Github监控程序，部分扩展未实现。
+简单的Github监控程序，部分扩展未实现。可监控多个关键字，有存储记录功能。
+
 使用pyinstaller打包，双击run.bat直接运行exe，win10可免python环境，其他系统需要安装python以及依赖库。
-可监控多个关键字，有存储记录功能。
-附赠关键字“cve-20”全部github数据库，和已生成win10环境的exe程序。
+
+附赠关键字“cve-20”全部github数据库，和已生成win10环境的exe程序（https://github.com/moyuliu/SimpleGithubMonitor/releases/download/1.0/6t-Github-look.exe）。
 
 使用GithubAPI监控关键字
 
