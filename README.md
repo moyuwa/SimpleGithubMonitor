@@ -1,4 +1,6 @@
 # SimpleGithubMonitor
+2020-04-30新添GitHubAPI.py文件，支持登陆验证，支持按日期遍历获取结果数据，支持邮件发送，取消ini配置读取。
+
 简单的Github监控程序，部分扩展未实现。可监控多个关键字，有存储记录功能，py脚本方式使用请自行修改源代码。附赠关键字“cve-20”全部github数据库。
 
 使用pyinstaller -F打包后，双击run.bat直接运行exe，win10可免python环境，其他系统需要安装python以及依赖库。已生成win10环境的exe程序（https://github.com/moyuliu/SimpleGithubMonitor/releases/download/1.0/6t-Github-look.exe）。
